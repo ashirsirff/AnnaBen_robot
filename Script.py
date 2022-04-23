@@ -9,8 +9,7 @@ class script(object):
 ╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
 ║║┣⪼𝘖𝘸𝘯𝘦𝘳 - <a href="https://t.me/Ashir_sir_ff">Ashir Sir FF </a>
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎1 - <a href="https://t.me/pro_editor_tg"> Lalluᵗᵍ </a>
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎2 - <a href="https://t.me/Ashir_sir_ff"> ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋM-STER </a>
+║┣⪼ 𝘖𝘸𝘯𝘦𝘳2 - <a href="https://t.me/pro_editor_tg"> Lalluᵗᵍ </a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
