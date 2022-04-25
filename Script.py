@@ -8,8 +8,9 @@ class script(object):
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║║┣⪼𝘖𝘸𝘯𝘦𝘳 - <a href="https://t.me/Ashir_sir_ff">Ashir Sir FF </a>
-║┣⪼ 𝘖𝘸𝘯𝘦𝘳2 - <a href="https://t.me/pro_editor_tg"> Denin </a>
+║║┣⪼𝐓𝐞𝐚𝐦 𝐍𝐚𝐦𝐞- <a href="https://t.me/+37bSP4Ay01xhYzll"> 𝘈𝘳.𝘛𝘦𝘤𝘩 </a>
+║┣⪼ Ⓓⓔⓥ① - <a href="https://t.me/Ashir_sir_ff"> 𝘈𝘴𝘩𝘪𝘳 𝘚𝘪𝘳 𝘍𝘍 </a>
+║┣⪼ Ⓓⓔⓥ② - <a href="https://t.me/Denindenin"> 𝘋𝘦𝘯𝘪𝘯 </a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
