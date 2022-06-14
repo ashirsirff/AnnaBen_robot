@@ -8,7 +8,7 @@ class script(object):
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║║┣⪼𝐓𝐞𝐚𝐦 𝐍𝐚𝐦𝐞- <a href="https://t.me/+37bSP4Ay01xhYzll"> 𝘈𝘳.𝘛𝘦𝘤𝘩 </a>
+║║┣⪼𝐓𝐞𝐚𝐦 𝐍𝐚𝐦𝐞- <a href="https://t.me/+37bSP4Ay01xhYzll"> 𝘈𝘋.𝘛𝘦𝘤𝘩 </a>
 ║┣⪼ Ⓓⓔⓥ① - <a href="https://t.me/Ashir_sir_ff"> 𝘈𝘴𝘩𝘪𝘳 𝘚𝘪𝘳 𝘍𝘍 </a>
 ║┣⪼ Ⓓⓔⓥ② - <a href="https://t.me/Denindenin"> 𝘋𝘦𝘯𝘪𝘯 </a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
@@ -22,7 +22,7 @@ class script(object):
 - Source Code - <a href="https://github.com/ashirsirff/AnnaBen_robot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="https://t.me/team_annaben"> 𝑻𝑬𝑨𝑴 𝑨𝑵𝑵𝑨 </a>"""
+<a href="https://t.me/+37bSP4Ay01xhYzll"> 𝘈𝘋 𝘛𝘦𝘤𝘩 </a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
